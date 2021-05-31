@@ -208,7 +208,6 @@ footer .arrow {
         flex-direction: column;
         align-items: center;
     }
-
     footer .buttons--area a {
         margin: 10px 20px;
         width: calc(100vw - 60px);
