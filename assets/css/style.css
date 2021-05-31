@@ -187,7 +187,6 @@ footer .arrow {
 }
 
 /*MEDIAS QUERIES*/
-
 @media (max-width: 1200px) {
     header .middle {
         display: none;
